@@ -1,4 +1,4 @@
-print("Modded by BossIsBack!")
+print("Modded by BossIsBack! x2")
 
 for i,v in pairs(getconnections(game.Players.LocalPlayer.Idled)) do
 	v:Disable()
